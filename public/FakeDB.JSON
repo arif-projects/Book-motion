@@ -1,0 +1,92 @@
+[
+    {
+        "key": "B002RL8IYa",
+        "name": "The Time Machine",
+        "author": "H. G. Wells",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/618SN1XrtFL.jpg",
+        "page": "84",
+        "type": "science fiction",
+        "description": "The Time Machine is a science fiction novella by H. G. Wells, published in 1895. The work is generally credited with the popularization of the concept of time travel by using a vehicle or device to travel purposely and selectively forward or backward through time. The term time machine, coined by Wells, is now almost universally used to refer to such a vehicle or device.[1]",
+        "price": 15
+    },
+    {
+        "key": "B002RL8IYv",
+        "name": "Dune",
+        "author": " Frank Herbert",
+        "img": "http://17rg073sukbm1lmjk9jrehb643-wpengine.netdna-ssl.com/wp-content/uploads/2014/12/tumblr_m589qrFffi1qbaom0.jpg",
+        "page": "412",
+        "type": "science fiction",
+        "description": "Dune is a 1965 science-fiction novel by American author Frank Herbert, originally published as two separate serials in Analog magazine. It tied with Roger Zelazny's This Immortal for the Hugo Award in 1966,[2] and it won the inaugural Nebula Award for Best Novel.[3] It is the first installment of the Dune saga; in 2003, it was cited as the world's best-selling science fiction novel.",
+        "price": 20
+    },
+    {
+        "key": "B002RL8IYg",
+        "name": "The Book of the New Sun",
+        "author": "Gene Wolfe",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91RoFyMfEGL.jpg",
+        "page": "950",
+        "type": "science fiction",
+        "description": "The Book of the New Sun (1980–1983) is a series of four science fantasy novels, a tetralogy or single four-volume novel[2] written by the American author Gene Wolfe. It inaugurated the that Wolfe continued by setting other works in the same universe.",
+        "price": 150
+    },
+    {
+        "key": "B002RL8IYj",
+        "name": "Grant",
+        "author": "Ron Chernow",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91bE31pqCYL.jpg",
+        "page": "1022",
+        "type": "History",
+        "description": "Pulitzer Prize winner Ron Chernow returns with a sweeping and dramatic portrait of one of our most compelling generals and presidents, Ulysses S. Grant. With lucidity, breadth, and meticulousness, Chernow finds the threads that bind Grant's disparate stories together, shedding new light on the man whom Walt Whitman described as nothing heroic...and yet the greatest hero.",
+        "price": 150
+    },
+    {
+        "key": "B002RL8IYl",
+        "name": "Leningrad: The Epic Siege of World War II, 1941-1944",
+        "author": "Anna Reid",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358753266l/15943720.jpg",
+        "page": "955",
+        "type": "History",
+        "description": "On September 8, 1941, eleven weeks after Hitler launched Operation Barbarossa, his brutal surprise attack on the Soviet Union, Leningrad was surrounded. The siege was not lifted for two and a half years, by which time some three quarters of a million Leningraders had died of starvation. ",
+        "price": 50
+    },
+    {
+        "key": "B002RL8IY5",
+        "name": "Saga of the Swamp Thing Book One",
+        "author": "Alan Moore",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81FZLwoQTQL.jpg",
+        "page": "200",
+        "type": "Comic",
+        "description": "After forcing the release of his wife Abby from Gotham City's police, Swamp Thing found himself torn from the Earth by an unexpected attack and his consciousness thrown across the galaxy. He awakened on a distant, blue planet full of life but devoid of any sentience.",
+        "price": 20
+    },
+    {
+        "key": "B002RL8IY2",
+        "name": "Baraf Gola Nadi",
+        "author": "Zohir Rayhan",
+        "img": "https://bdebooks.com/wp-content/uploads/2019/08/1464949976.jpg",
+        "page": "300",
+        "type": "Novel",
+        "description": "Borof Gola Nodi Bangla novel wrote by Zahir Rayhan. In this book, there is a story of the struggles of the lower-middle-class people. There is begging for only ten bucks; there is a fight for right and wrong; there are limits of self-esteem. The story is about the love of a girl and the lack of respect over time. There is a family, the stories of their fears, joys, and their pains. Zahir Raihan’s stylus might be so fluent, so charming, so extraordinary!",
+        "price": 30
+    },
+    {
+        "key": "B002RL8IY1",
+        "name": "Beyond the Far Side",
+        "author": "Gary Larson",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/413WPNNlp+L._SY309_BO1,204,203,200_.jpg",
+        "page": "100",
+        "type": "Cartoon",
+        "description": "The Far Side was syndicated in more than 1,900 daily newspapers from 1980 to 1995, when Gary Larson retired.",
+        "price": 15
+    },
+    {
+        "key": "B002RL8IYaa",
+        "name": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "img": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476787848/the-old-man-and-the-sea-9781476787848_hr.jpg",
+        "page": "1220",
+        "type": "Novel",
+        "description": "The Old Man and the Sea is a short novel written by the American author Ernest Hemingway in 1951 in Cayo Blanco, and published in 1952. It was the last major work of fiction written by Hemingway that was published during his lifetime",
+        "price": 150
+    }
+]

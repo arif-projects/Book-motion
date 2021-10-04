@@ -1,0 +1,15 @@
+.about{
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+
+.about-title{
+    padding: 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(green,aqua);
+}
+
+.name{
+    color: rgb(104, 26, 228);
+}

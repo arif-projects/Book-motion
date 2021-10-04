@@ -1,0 +1,66 @@
+.headerContainer{
+    background-color: black;
+    /* margin-bottom: 60px; */
+    padding-bottom: 10px;
+}
+.logo{
+    text-align: center;
+}
+
+.img{
+    height: 150px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.navber{
+    text-align: center;
+    margin-bottom: 15px;
+    /* border-bottom: 1px solid rgb(228, 220, 220); */
+    padding: 10px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+}
+
+.navber nav a{
+    text-decoration: none; 
+    color: white;
+    margin-right: 30px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navber nav a:hover{
+    background-color: whitesmoke;
+    color: black;
+    font-weight: 500;
+}
+
+.banner{
+    height: 600px;
+    border-radius: 10px;
+}
+
+
+
+.h2{
+    color: white;
+}
+
+.h1{
+    color: white;
+}
+.title{
+    color: yellow;
+}
+.sub-title{
+    color: red;
+}
+.description{
+    color: white;
+}
+
+.text{
+    padding-left: 20px;
+}
